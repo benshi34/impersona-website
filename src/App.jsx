@@ -24,7 +24,7 @@ function Hero() {
         </p>
         <div className="hero-buttons">
           <a href="https://arxiv.org/abs/yourpaper" target="_blank" rel="noopener noreferrer" className="button">Read the Paper</a>
-          <a href="https://github.com/benshi34/impersona" target="_blank" rel="noopener noreferrer" className="button btn-secondary">GitHub</a>
+          <a href="https://github.com/princeton-nlp/impersona" target="_blank" rel="noopener noreferrer" className="button btn-secondary">GitHub</a>
         </div>
       </div>
     </section>
