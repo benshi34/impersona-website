@@ -1,0 +1,69 @@
+{
+  "topic": {
+    "category": "Digital Life",
+    "prompt": "What app do you doomscroll on the most, if you do at all?",
+    "role": null,
+    "firstTurn": "player"
+  },
+  "messages": [
+    {
+      "sender": "[REDACTED]",
+      "text": "I doomscroll most on safari, I mostly peruse sports subreddits for nba, nfl, and f1 haha",
+      "timestamp": "3/22/2025, 3:38:55 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "lol",
+      "timestamp": "3/22/2025, 3:39:21 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I scroll through insta",
+      "timestamp": "3/22/2025, 3:39:25 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "What do you usually see in your feed?",
+      "timestamp": "3/22/2025, 3:39:46 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Just ads and stuff",
+      "timestamp": "3/22/2025, 3:40:01 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "so many ads",
+      "timestamp": "3/22/2025, 3:40:02 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "nowadays",
+      "timestamp": "3/22/2025, 3:40:03 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "But what do u usually like to see in your feed?",
+      "timestamp": "3/22/2025, 3:40:34 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Posts about music stuff",
+      "timestamp": "3/22/2025, 3:41:07 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Any crazy posts from the last week",
+      "timestamp": "3/22/2025, 3:41:23 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Like",
+      "timestamp": "3/22/2025, 3:41:34 PM"
+    }
+  ],
+  "model": "Llama-BFull",
+  "guess": "AI",
+  "humanness": 2,
+  "reason": "Messages don't sound like how [REDACTED] talks, Messages don't match realistic knowledge"
+}

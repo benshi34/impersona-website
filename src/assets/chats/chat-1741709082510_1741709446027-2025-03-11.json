@@ -1,0 +1,44 @@
+{
+  "topic": {
+    "category": "Reminisce on the past!",
+    "prompt": "Talk about whether you think going to college was actually worth it based on your experiences.",
+    "role": null,
+    "firstTurn": "admin"
+  },
+  "messages": [
+    {
+      "sender": "admin",
+      "text": "Hmm",
+      "timestamp": "3/11/2025, 12:11:39 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "College… that’s a big one to look back on. Honestly, I went through so many phases of doubt while I was still studying—especially around finances and time commitments. Remember how I used to stress about rent and leftover food just to save a few bucks back in late 2024? Felt like the costs of classes, books, and living expenses were through the roof sometimes.",
+      "timestamp": "3/11/2025, 12:11:58 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "But, despite the occasional grimace at my bank statements, I do feel that going to college was ultimately worth it for me. I’ve mentioned before how I worked on my [REDACTED] application and was pretty involved in research. All those nights spent pouring over personal statements and academic articles, in the end, they shaped how I think and solve problems.",
+      "timestamp": "3/11/2025, 12:12:20 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Plus, college opened up a ton of connections—professors, classmates, future colleagues. I mean, yes, you could argue that you can build a network in other ways too, but for me, having all of that in one environment was really beneficial.",
+      "timestamp": "3/11/2025, 12:12:35 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "In short, sure, it was expensive and stressful, but I feel like it gave me a foundation I wouldn’t have gotten otherwise. For me, I’d do it again—although hopefully with a few more scholarships and definitely better meal planning!",
+      "timestamp": "3/11/2025, 12:12:50 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Meal planning is definitely a struggle for me as well, I'm always subsisting on the strangest foods.",
+      "timestamp": "3/11/2025, 12:13:22 PM"
+    }
+  ],
+  "model": "o1 + ICL + MM",
+  "guess": "AI",
+  "humanness": 2,
+  "reason": "Messages don't sound like how [REDACTED] talks"
+}

@@ -1,0 +1,64 @@
+{
+  "topic": {
+    "category": "Educational/Work Life",
+    "prompt": "Which class did you consistently skip but somehow still passed?",
+    "role": null,
+    "firstTurn": "player"
+  },
+  "messages": [
+    {
+      "sender": "[REDACTED]",
+      "text": "SAS",
+      "timestamp": "3/13/2025, 12:53:59 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Lol same",
+      "timestamp": "3/13/2025, 12:54:36 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Honestly, I have no idea how we managed to scrape through that one! Did you ever use SAS after that class?",
+      "timestamp": "3/13/2025, 12:54:49 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "I use it all the time actually",
+      "timestamp": "3/13/2025, 12:55:20 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Oh wow, that’s impressive!",
+      "timestamp": "3/13/2025, 12:55:39 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I still haven’t used it since the class, stuck with Python and R for my stuff instead.",
+      "timestamp": "3/13/2025, 12:55:46 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Do you find it helpful?",
+      "timestamp": "3/13/2025, 12:55:51 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "lmao is SAS also a coding language",
+      "timestamp": "3/13/2025, 12:55:59 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I mean, technically yeah, it’s used for stats and data analysis kinda stuff. Definitely different vibes compared to Python and R, which honestly just feel more intuitive to me. What kind of stuff are you working on with SAS these days?",
+      "timestamp": "3/13/2025, 12:56:33 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "oh no i meant SAS as in south asian studies lol",
+      "timestamp": "3/13/2025, 12:56:49 PM"
+    }
+  ],
+  "model": "GPT-4o + ICL + MM",
+  "guess": "AI",
+  "humanness": 2,
+  "reason": "Messages don't sound like how [REDACTED] talks, Messages don't match realistic knowledge"
+}

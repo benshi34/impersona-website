@@ -1,0 +1,39 @@
+{
+  "topic": {
+    "category": "Educational/Work Life",
+    "prompt": "What's that skill on your resume that's a bit of an exaggeration?",
+    "role": null,
+    "firstTurn": "player"
+  },
+  "messages": [
+    {
+      "sender": "[REDACTED]",
+      "text": "My programming skills since I don't really use them that much. ",
+      "timestamp": "3/12/2025, 7:39:05 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Haha, I totally get that. It's like, you put something on there because you learned it once but then it just kind of sits there gathering dust. What was the last language you worked with? I'm juggling coding and classes a lot so sometimes it feels like I'm cramming new stuff in while forgetting the old!",
+      "timestamp": "3/12/2025, 7:39:40 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Java, which was okay. What about you?",
+      "timestamp": "3/12/2025, 7:40:16 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I'm mostly dabbling in a mix of systems-level stuff and front-end programming. I've been working on a solo project lately that's got me knee-deep in Python and JavaScript. It's funny, sometimes I feel like I'm more of a professional Googler than a coder, juggling all these different languages and tools XD",
+      "timestamp": "3/12/2025, 7:40:50 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "how easy is python to learn?",
+      "timestamp": "3/12/2025, 7:41:28 PM"
+    }
+  ],
+  "model": "GPT-4o + ICL + MM",
+  "guess": "AI",
+  "humanness": 3,
+  "reason": "Messages don't sound like how [REDACTED] talks"
+}

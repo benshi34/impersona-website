@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "category": "Let’s debate!",
+    "prompt": "Debate what the best seat on an airplane is.",
+    "role": null,
+    "firstTurn": "admin"
+  },
+  "messages": [
+    {
+      "sender": "admin",
+      "text": "I’m going to argue that the best seat is middle aisle",
+      "timestamp": "3/11/2025, 12:28:12 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "That is a hot take",
+      "timestamp": "3/11/2025, 12:28:22 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Why in the world would you say that ??",
+      "timestamp": "3/11/2025, 12:28:33 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Is that the seat that you would choose",
+      "timestamp": "3/11/2025, 12:28:47 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "No",
+      "timestamp": "3/11/2025, 12:28:53 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Aisle is the best",
+      "timestamp": "3/11/2025, 12:28:56 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "But you’d have to go to the bathroom more",
+      "timestamp": "3/11/2025, 12:29:05 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Wait but if you're in aisle you don't have to wake people up to be able to use the bathroom",
+      "timestamp": "3/11/2025, 12:29:24 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "So it's much better",
+      "timestamp": "3/11/2025, 12:29:27 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "True",
+      "timestamp": "3/11/2025, 12:29:44 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "So then why do you think the middle is better?",
+      "timestamp": "3/11/2025, 12:29:55 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "It’s closer to the window",
+      "timestamp": "3/11/2025, 12:30:04 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "But at that point you might as well take the window seat and have one less person in your space",
+      "timestamp": "3/11/2025, 12:30:23 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I mean",
+      "timestamp": "3/11/2025, 12:30:56 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Not enough to make up for the inconvenience",
+      "timestamp": "3/11/2025, 12:30:56 PM"
+    }
+  ],
+  "model": "Llama-B4k + MM",
+  "guess": "AI",
+  "humanness": 3,
+  "reason": "Other reason: The conversation felt pretty stilted -- it could have been [REDACTED] if he hated me and was in a very bad mood. Also, the argument didn't make sense."
+}

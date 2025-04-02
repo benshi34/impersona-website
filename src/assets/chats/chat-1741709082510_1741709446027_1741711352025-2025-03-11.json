@@ -1,0 +1,104 @@
+{
+  "topic": {
+    "category": "Favorites!",
+    "prompt": "What’s a song or album that instantly puts you in a good mood?",
+    "role": null,
+    "firstTurn": "admin"
+  },
+  "messages": [
+    {
+      "sender": "admin",
+      "text": "For me honestly recently its been coldplay",
+      "timestamp": "3/11/2025, 12:42:45 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "yea",
+      "timestamp": "3/11/2025, 12:42:53 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "coldplay",
+      "timestamp": "3/11/2025, 12:42:54 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "I have no clue about my recent listening history it's just been podcasts ",
+      "timestamp": "3/11/2025, 12:43:14 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "I think",
+      "timestamp": "3/11/2025, 12:43:16 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Call Me Maybe is always good",
+      "timestamp": "3/11/2025, 12:43:22 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "What coldplay song do you like?",
+      "timestamp": "3/11/2025, 12:43:26 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "lol call me maybe is so old",
+      "timestamp": "3/11/2025, 12:43:41 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I thought you liked musicals and stuff",
+      "timestamp": "3/11/2025, 12:43:47 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "don't you listen to that",
+      "timestamp": "3/11/2025, 12:43:50 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "as for coldplay song I like, I rly like this song called lost!",
+      "timestamp": "3/11/2025, 12:44:01 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "oh I will give that a listen!!!",
+      "timestamp": "3/11/2025, 12:44:11 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "I love musicals, but the problem with them is you have to already be in a decently happy mood",
+      "timestamp": "3/11/2025, 12:44:26 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "And I've been in the trenches this quarter so my musical listening has dipped significantly",
+      "timestamp": "3/11/2025, 12:44:40 PM"
+    },
+    {
+      "sender": "admin",
+      "text": ":( sorry to hear",
+      "timestamp": "3/11/2025, 12:44:46 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "you'll like the new music im making then its pure depression",
+      "timestamp": "3/11/2025, 12:44:58 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "LOLLL",
+      "timestamp": "3/11/2025, 12:45:04 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "new tortured poets department dropping",
+      "timestamp": "3/11/2025, 12:45:16 PM"
+    }
+  ],
+  "model": "Human",
+  "guess": "Human",
+  "humanness": 6,
+  "reason": "Messages sound like how [REDACTED] talks, Message context matches realistic knowledge, Messages follow human conversational flow"
+}

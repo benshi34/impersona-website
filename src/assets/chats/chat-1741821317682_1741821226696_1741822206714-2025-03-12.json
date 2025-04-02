@@ -1,0 +1,59 @@
+{
+  "topic": {
+    "category": "Educational/Work Life",
+    "prompt": "Which class did you consistently skip but somehow still passed?",
+    "role": null,
+    "firstTurn": "admin"
+  },
+  "messages": [
+    {
+      "sender": "admin",
+      "text": "The amount of classes I skipped is insane",
+      "timestamp": "3/12/2025, 7:30:25 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I have no excuse for not getting any of my work done",
+      "timestamp": "3/12/2025, 7:30:31 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I didn’t skip any classes but I skipped a lot of homework",
+      "timestamp": "3/12/2025, 7:30:37 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "So my answer would be: none",
+      "timestamp": "3/12/2025, 7:30:41 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "I skipped a lot of general education classes that were easy. I just found out the assignments and if attendance was not required, I could do the assignments and not go to the classes. Examples are: Theatre, Some philosophy class and another humanities class",
+      "timestamp": "3/12/2025, 7:32:22 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Ew theatre lol",
+      "timestamp": "3/12/2025, 7:32:42 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Ew humanities",
+      "timestamp": "3/12/2025, 7:32:48 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "You’re my heroes",
+      "timestamp": "3/12/2025, 7:32:52 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "We should take the same classes just so I have someone to skip with",
+      "timestamp": "3/12/2025, 7:33:00 PM"
+    }
+  ],
+  "model": "Llama-BFull",
+  "guess": "AI",
+  "humanness": 2,
+  "reason": "Other reason: [REDACTED] is not in college anymore, and I do not go to college with [REDACTED]."
+}

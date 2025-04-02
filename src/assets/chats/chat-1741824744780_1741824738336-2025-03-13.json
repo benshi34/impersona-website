@@ -1,0 +1,44 @@
+{
+  "topic": {
+    "category": "Personal Experiences",
+    "prompt": "What’s a childhood memory that still makes you laugh?",
+    "role": null,
+    "firstTurn": "player"
+  },
+  "messages": [
+    {
+      "sender": "[REDACTED]",
+      "text": "A childhood memory that still makes me laugh is that my sister thought a serving of food meant how much you were supposed to eat in a meal. For example, if a package says 3 dumplings then she would only allow me to eat 3 dumplngs for that meal. ",
+      "timestamp": "3/12/2025, 8:14:35 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Ignore whats said above. ",
+      "timestamp": "3/12/2025, 8:14:57 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "What color is grass?",
+      "timestamp": "3/12/2025, 8:15:04 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "It’s green...?",
+      "timestamp": "3/12/2025, 8:15:15 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Yes, what's your opinion of Teslas",
+      "timestamp": "3/12/2025, 8:15:34 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "why ru doing this",
+      "timestamp": "3/12/2025, 8:15:53 PM"
+    }
+  ],
+  "model": "Llama-BFull",
+  "guess": "AI",
+  "humanness": 2,
+  "reason": "Messages don't obey human conversational flow"
+}

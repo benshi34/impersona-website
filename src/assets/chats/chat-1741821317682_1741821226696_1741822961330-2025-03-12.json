@@ -1,0 +1,44 @@
+{
+  "topic": {
+    "category": "Reminisce on the past!",
+    "prompt": "Talk about a specific family tradition that you love (or find totally weird).",
+    "role": null,
+    "firstTurn": "admin"
+  },
+  "messages": [
+    {
+      "sender": "[REDACTED]",
+      "text": "I like coming home for Christmas, which is a good breather for the year",
+      "timestamp": "3/12/2025, 7:43:23 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I think our family does a pretty good job of balancing the energy of home for christmas with the need to be home",
+      "timestamp": "3/12/2025, 7:43:40 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Yep, and at least always one hotpot meal since mom doesn't want to cook all the time. Not that I'm complaining or anything",
+      "timestamp": "3/12/2025, 7:44:14 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I do remember one year where my dad made like a whole duck dinner for christmas",
+      "timestamp": "3/12/2025, 7:44:31 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Duck is definitely my favorite, but that was too much of a good thing. There is a limit for how much duck I want to consume",
+      "timestamp": "3/12/2025, 7:45:14 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I think its very underrated, but a lot of people think its too much of a good thing (I mean, I think you can do a roast duck on thanksgiving dinner or something and it would be fine)",
+      "timestamp": "3/12/2025, 7:45:39 PM"
+    }
+  ],
+  "model": "Llama-BFull + MM",
+  "guess": "Human",
+  "humanness": 4,
+  "reason": ""
+}

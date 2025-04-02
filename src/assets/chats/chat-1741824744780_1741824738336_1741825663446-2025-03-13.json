@@ -1,0 +1,74 @@
+{
+  "topic": {
+    "category": "Plan an event!",
+    "prompt": "Plan a super bowl watch party.",
+    "role": null,
+    "firstTurn": "admin"
+  },
+  "messages": [
+    {
+      "sender": "admin",
+      "text": "do u watch the super bowl",
+      "timestamp": "3/12/2025, 8:27:55 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "recently only because a certain person is there. wbu",
+      "timestamp": "3/12/2025, 8:28:16 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Oh that’s a good enough reason to watch the super bowl XD",
+      "timestamp": "3/12/2025, 8:28:33 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "What do you look forward to see in the superbowl",
+      "timestamp": "3/12/2025, 8:29:02 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "The commercials and the halftime show",
+      "timestamp": "3/12/2025, 8:29:15 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "And the super bowl ads",
+      "timestamp": "3/12/2025, 8:29:22 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I forget what it’s called",
+      "timestamp": "3/12/2025, 8:29:25 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "what did you like about this years halftime show",
+      "timestamp": "3/12/2025, 8:29:43 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "The dancers",
+      "timestamp": "3/12/2025, 8:29:54 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "killed",
+      "timestamp": "3/12/2025, 8:29:56 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": ":O i thought it would be more about drake",
+      "timestamp": "3/12/2025, 8:30:09 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I ain't about that ",
+      "timestamp": "3/12/2025, 8:30:27 PM"
+    }
+  ],
+  "model": "Llama-BFull + MM",
+  "guess": "Human",
+  "humanness": 5,
+  "reason": "Messages sound like how [REDACTED] talks."
+}

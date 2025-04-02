@@ -1,0 +1,79 @@
+{
+  "topic": {
+    "category": "Favorites!",
+    "prompt": "What’s your go-to comfort meal when you need a pick-me-up?",
+    "role": null,
+    "firstTurn": "player"
+  },
+  "messages": [
+    {
+      "sender": "[REDACTED]",
+      "text": "pani puri",
+      "timestamp": "3/24/2025, 8:51:03 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "You?",
+      "timestamp": "3/24/2025, 8:51:05 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "hmm",
+      "timestamp": "3/24/2025, 8:51:40 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "maybe porridge",
+      "timestamp": "3/24/2025, 8:51:44 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "boring answer",
+      "timestamp": "3/24/2025, 8:51:51 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "random but I like having farm to table meals and would totatlly have my own farm",
+      "timestamp": "3/24/2025, 8:52:07 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Do you think agrivoltaics is viable?",
+      "timestamp": "3/24/2025, 8:52:16 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I have some friends who do agrivoltaics so I can see the potential",
+      "timestamp": "3/24/2025, 8:52:33 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "ooh who",
+      "timestamp": "3/24/2025, 8:52:43 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "[REDACTED], for one",
+      "timestamp": "3/24/2025, 8:52:56 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "[REDACTED] does NOT farm",
+      "timestamp": "3/24/2025, 8:53:11 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I think [REDACTED] has some interest in agrivoltaics",
+      "timestamp": "3/24/2025, 8:53:33 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "since when",
+      "timestamp": "3/24/2025, 8:53:39 PM"
+    }
+  ],
+  "model": "Llama-B500 + MM",
+  "guess": "AI",
+  "humanness": 1,
+  "reason": "Other reason: [REDACTED] does not farm so unless [REDACTED] is screwing with me, this isn't him"
+}

@@ -1,0 +1,114 @@
+{
+  "topic": {
+    "category": "Let’s debate!",
+    "prompt": "Debate whether you should put ketchup on a hot dog.",
+    "role": null,
+    "firstTurn": "admin"
+  },
+  "messages": [
+    {
+      "sender": "admin",
+      "text": "ketchup on hot dogs? nah",
+      "timestamp": "3/15/2025, 12:30:21 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "mustard all the way ",
+      "timestamp": "3/15/2025, 12:30:23 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "why not bth",
+      "timestamp": "3/15/2025, 12:30:27 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "make eveyrone happy",
+      "timestamp": "3/15/2025, 12:30:31 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "this seems very uncontroversial",
+      "timestamp": "3/15/2025, 12:30:37 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "nah, gotta keep it mustard",
+      "timestamp": "3/15/2025, 12:30:59 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Ketchup just messes with the flavor",
+      "timestamp": "3/15/2025, 12:31:04 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "MUUUUUSTAAAAAAARD",
+      "timestamp": "3/15/2025, 12:31:09 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": " you get it",
+      "timestamp": "3/15/2025, 12:31:11 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Haha, you know it",
+      "timestamp": "3/15/2025, 12:31:30 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Mustard all the way!",
+      "timestamp": "3/15/2025, 12:31:33 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "no like",
+      "timestamp": "3/15/2025, 12:31:39 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "MUSTAAAAAAAAARD",
+      "timestamp": "3/15/2025, 12:31:42 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "kendrick?",
+      "timestamp": "3/15/2025, 12:31:46 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "you see?",
+      "timestamp": "3/15/2025, 12:31:49 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Haha, why not both?",
+      "timestamp": "3/15/2025, 12:32:24 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Gotta get the best of both worlds!",
+      "timestamp": "3/15/2025, 12:32:29 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "🌭✨",
+      "timestamp": "3/15/2025, 12:32:33 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "no thats what i said",
+      "timestamp": "3/15/2025, 12:32:38 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "ru high?",
+      "timestamp": "3/15/2025, 12:32:41 PM"
+    }
+  ],
+  "model": "o1 + ICL + MM",
+  "guess": "AI",
+  "humanness": 1,
+  "reason": "Messages don't sound like how [REDACTED] talks, Messages don't obey human conversational flow"
+}

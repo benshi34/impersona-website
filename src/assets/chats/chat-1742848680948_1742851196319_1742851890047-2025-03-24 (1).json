@@ -1,0 +1,84 @@
+{
+  "topic": {
+    "category": "Personal Experiences",
+    "prompt": "What’s the biggest argument that you’ve gotten into with someone?",
+    "role": null,
+    "firstTurn": "player"
+  },
+  "messages": [
+    {
+      "sender": "[REDACTED]",
+      "text": "i had a pretty big argument with my english teacher the other day",
+      "timestamp": "3/24/2025, 5:31:44 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "i wouldnt say its the biggest one but its the one from the top of my head",
+      "timestamp": "3/24/2025, 5:31:56 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "basically, the chapters 1-3 quiz tested things on chapters 4 and 5",
+      "timestamp": "3/24/2025, 5:32:11 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "when i told my teacher, he said the answers to those questions were \"alluded to\" in previous chapters",
+      "timestamp": "3/24/2025, 5:32:27 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "i double checked and they werent, and to this day i didnt receive credit for those problems",
+      "timestamp": "3/24/2025, 5:32:40 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "wow that's a bummer",
+      "timestamp": "3/24/2025, 5:32:50 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "which teacher was this",
+      "timestamp": "3/24/2025, 5:32:52 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "mr barrett, do you know him? i think hes a pretty old man",
+      "timestamp": "3/24/2025, 5:33:12 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "lol i had him too actually",
+      "timestamp": "3/24/2025, 5:33:26 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "dang, what classes did you have him for",
+      "timestamp": "3/24/2025, 5:33:40 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "DE or h10",
+      "timestamp": "3/24/2025, 5:33:45 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "what's DE?",
+      "timestamp": "3/24/2025, 5:33:55 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "dual enrollment (WVU college cred)",
+      "timestamp": "3/24/2025, 5:34:06 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "Oh I see, I had him for H10 then",
+      "timestamp": "3/24/2025, 5:34:16 PM"
+    }
+  ],
+  "model": "Llama-BFull + MM",
+  "guess": "Human",
+  "humanness": 6,
+  "reason": "Messages sound like how [REDACTED] talks, Message context matches realistic knowledge, Messages follow human conversational flow"
+}

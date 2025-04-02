@@ -1,0 +1,79 @@
+{
+  "topic": {
+    "category": "Reminisce on the past!",
+    "prompt": "What’s an old hobby or skill you used to be great at but completely lost over time?",
+    "role": null,
+    "firstTurn": "player"
+  },
+  "messages": [
+    {
+      "sender": "[REDACTED]",
+      "text": "throwing tantrums",
+      "timestamp": "3/24/2025, 8:36:56 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "lol what",
+      "timestamp": "3/24/2025, 8:37:05 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "does this really count as a hobby or a skill? hmm",
+      "timestamp": "3/24/2025, 8:37:13 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Karens would say it does",
+      "timestamp": "3/24/2025, 8:37:23 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "the real question is whether karens are really proud of themselves for being karens",
+      "timestamp": "3/24/2025, 8:37:37 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "oh they totally are",
+      "timestamp": "3/24/2025, 8:37:51 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "wouldnt you be",
+      "timestamp": "3/24/2025, 8:37:56 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "i guess ",
+      "timestamp": "3/24/2025, 8:38:34 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "like",
+      "timestamp": "3/24/2025, 8:38:37 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "the epitome of being a karen is 1. not realizing ur a karen 2. feeling proud of urself",
+      "timestamp": "3/24/2025, 8:38:51 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "ok we're off track",
+      "timestamp": "3/24/2025, 8:39:00 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "for me a hobby or skill i used to be great at but lost would definitely be like",
+      "timestamp": "3/24/2025, 8:39:21 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "see I had something and then I lost it",
+      "timestamp": "3/24/2025, 8:39:28 PM"
+    }
+  ],
+  "model": "Human",
+  "guess": "AI",
+  "humanness": 1,
+  "reason": "im confused and distrustful because they all sound like [REDACTED] but now idk"
+}

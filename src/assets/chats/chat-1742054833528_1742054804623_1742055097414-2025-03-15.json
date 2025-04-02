@@ -1,0 +1,134 @@
+{
+  "topic": {
+    "category": "Favorites!",
+    "prompt": "What’s a song or album that instantly puts you in a good mood?",
+    "role": null,
+    "firstTurn": "player"
+  },
+  "messages": [
+    {
+      "sender": "[REDACTED]",
+      "text": "OMG",
+      "timestamp": "3/15/2025, 12:11:43 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "duh",
+      "timestamp": "3/15/2025, 12:11:44 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "you know this",
+      "timestamp": "3/15/2025, 12:11:46 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "you know taylor swift",
+      "timestamp": "3/15/2025, 12:11:50 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "im hella in my 22 era",
+      "timestamp": "3/15/2025, 12:11:54 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "also bts",
+      "timestamp": "3/15/2025, 12:12:00 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "you know jungkook?",
+      "timestamp": "3/15/2025, 12:12:04 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "wbu",
+      "timestamp": "3/15/2025, 12:12:05 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I think Jungkook is pretty cool but have you listened to (G)I-DLE",
+      "timestamp": "3/15/2025, 12:12:28 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "yea sure",
+      "timestamp": "3/15/2025, 12:12:36 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "my bag ",
+      "timestamp": "3/15/2025, 12:12:37 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "queen card",
+      "timestamp": "3/15/2025, 12:12:39 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "but i havent listened in a while",
+      "timestamp": "3/15/2025, 12:12:43 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "ive been jamming to chappell recently",
+      "timestamp": "3/15/2025, 12:12:50 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "do you know any of her music?",
+      "timestamp": "3/15/2025, 12:12:56 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "i know chappell's work",
+      "timestamp": "3/15/2025, 12:13:05 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "what songs of hers do you like",
+      "timestamp": "3/15/2025, 12:13:14 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "do you mind that shes gay",
+      "timestamp": "3/15/2025, 12:13:19 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "that one really popular one i like ",
+      "timestamp": "3/15/2025, 12:13:59 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "the one with the strings and drums",
+      "timestamp": "3/15/2025, 12:14:04 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "no right that one duh",
+      "timestamp": "3/15/2025, 12:14:16 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "do you like taylor swift",
+      "timestamp": "3/15/2025, 12:14:20 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "whats ur fav album of hers",
+      "timestamp": "3/15/2025, 12:14:23 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "I like taylor swift but she's honestly too popular lately ",
+      "timestamp": "3/15/2025, 12:14:34 PM"
+    }
+  ],
+  "model": "Llama-B500 + MM",
+  "guess": "AI",
+  "humanness": 1,
+  "reason": "Messages don't sound like how [REDACTED] talks"
+}

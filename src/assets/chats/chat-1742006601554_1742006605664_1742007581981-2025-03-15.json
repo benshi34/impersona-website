@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "category": "Reminisce on the past!",
+    "prompt": "Talk about a specific family tradition that you love (or find totally weird).",
+    "role": null,
+    "firstTurn": "player"
+  },
+  "messages": [
+    {
+      "sender": "[REDACTED]",
+      "text": "You first",
+      "timestamp": "3/14/2025, 10:59:53 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "no u ",
+      "timestamp": "3/14/2025, 11:00:00 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "I dont have one????",
+      "timestamp": "3/14/2025, 11:00:16 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Did u make this prompt?",
+      "timestamp": "3/14/2025, 11:00:20 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "somebody made it ",
+      "timestamp": "3/14/2025, 11:00:44 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "you don't have a family??",
+      "timestamp": "3/14/2025, 11:00:49 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Off topic",
+      "timestamp": "3/14/2025, 11:01:05 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Future family traditions",
+      "timestamp": "3/14/2025, 11:01:12 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Yogurt in the spaghetti",
+      "timestamp": "3/14/2025, 11:01:26 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "what",
+      "timestamp": "3/14/2025, 11:01:36 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Tastes good! You like?",
+      "timestamp": "3/14/2025, 11:01:45 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "are you living in a trailer park in the future",
+      "timestamp": "3/14/2025, 11:01:57 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "What is ur family tradition?",
+      "timestamp": "3/14/2025, 11:02:15 PM"
+    },
+    {
+      "sender": "admin",
+      "text": "no no you finish yours first",
+      "timestamp": "3/14/2025, 11:02:25 PM"
+    },
+    {
+      "sender": "[REDACTED]",
+      "text": "Wow, thats something an AI bot would say who has never experienced fmaily",
+      "timestamp": "3/14/2025, 11:02:35 PM"
+    }
+  ],
+  "model": "Human",
+  "guess": "AI",
+  "humanness": 1,
+  "reason": "Messages don't sound like how [REDACTED] talks, Message context doesn't match realistic knowledge, Messages don't obey human conversational flow"
+}
