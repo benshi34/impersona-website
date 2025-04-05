@@ -16,6 +16,7 @@ function Hero() {
           <a href="https://www.carlosejimenez.com/" target="_blank" rel="noopener noreferrer" className="author-link">Carlos E. Jimenez</a>,{" "}
           Stephen Dong,{" "}
           Brian Seo,{" "}
+          Caden Yao,{" "}
           Adam Kelch,{" "}
           <a href="https://karthikncode.github.io/" target="_blank" rel="noopener noreferrer" className="author-link">Karthik Narasimhan</a>
         </p>
