@@ -49,7 +49,7 @@ function Research() {
               writing style and personal knowledge. Using supervised fine-tuning and a hierarchical memory-inspired retrieval system, 
               we demonstrate that even modestly sized open-source models, such as Llama-3.1-8B-Instruct, can achieve impersonation 
               abilities at concerning levels. In blind conversation experiments, participants (mis)identified our fine-tuned models 
-              with memory integration as human in <strong>44.44%</strong> of interactions, compared to just <strong>25.00%</strong> 
+              with memory integration as human in <strong>44.44%</strong> of interactions, compared to just <strong>25.00%</strong>  
               for the best prompting-based approach. We analyze these results to propose detection methods and defense strategies 
               against such impersonation attempts. Our findings raise important questions about both the potential applications and 
               risks of personalized language models, particularly regarding privacy, security, and the ethical deployment of such 
