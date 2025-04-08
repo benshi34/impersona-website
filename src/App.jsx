@@ -24,7 +24,7 @@ function Hero() {
           Princeton University and Princeton Language and Intelligence
         </p>
         <div className="hero-buttons">
-          <a href="https://arxiv.org/abs/yourpaper" target="_blank" rel="noopener noreferrer" className="button">Read the Paper</a>
+          <a href="https://arxiv.org/abs/2504.04332" target="_blank" rel="noopener noreferrer" className="button">Read the Paper</a>
           <a href="https://github.com/princeton-nlp/impersona" target="_blank" rel="noopener noreferrer" className="button btn-secondary">GitHub</a>
         </div>
       </div>
@@ -308,11 +308,14 @@ function Publications() {
         </div>
         <div className="publication-card">
           <pre className="bibtex-citation" style={{ textAlign: 'left' }}>
-            {`@inproceedings{shi2024impersona,
-  title={IMPersona: Evaluating Individual Level LM Impersonation},
-  author={Shi, Quan and Jimenez, Carlos E. and Dong, Stephen and Seo, Brian and Kelch, Adam and Narasimhan, Karthik},
-  booktitle={arxiv},
-  year={2025}
+            {`@misc{shi2025impersonaevaluatingindividuallevel,
+      title={IMPersona: Evaluating Individual Level LM Impersonation}, 
+      author={Quan Shi and Carlos Jimenez and Stephen Dong and Brian Seo and Caden Yao and Adam Kelch and Karthik Narasimhan},
+      year={2025},
+      eprint={2504.04332},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.04332}, 
 }`}
           </pre>
         </div>
