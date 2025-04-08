@@ -341,7 +341,6 @@ function Footer() {
             <h3>Contact</h3>
             <ul className="footer-links">
               <li><a href="mailto:qbshi@princeton.edu">qbshi@princeton.edu</a></li>
-              <li><a href="mailto:carlosej@princeton.edu">carlosej@princeton.edu</a></li>
               <li><a href="https://pli.princeton.edu" target="_blank" rel="noopener noreferrer">Princeton Language and Intelligence</a></li>
             </ul>
           </div>
