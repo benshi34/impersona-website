@@ -338,17 +338,6 @@ function Footer() {
           </div>
           
           <div className="footer-column">
-            <h3>Links</h3>
-            <ul className="footer-links">
-              <li><a href="#research">Research</a></li>
-              <li><a href="#demo">Demo</a></li>
-              <li><a href="#team">Team</a></li>
-              <li><a href="#publications">Publications</a></li>
-              <li><a href="https://github.com/yourusername/impersona" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-            </ul>
-          </div>
-          
-          <div className="footer-column">
             <h3>Contact</h3>
             <ul className="footer-links">
               <li><a href="mailto:qbshi@princeton.edu">qbshi@princeton.edu</a></li>
